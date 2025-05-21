@@ -1,11 +1,17 @@
-# 🚨 Sistema de Alertas en Tiempo Real
+# 🚨 Sistema de Alertas en Tiempo Real:
 
-Este proyecto es un sistema de alertas diseñado para monitorear eventos críticos y notificar a los usuarios a través de múltiples canales como correo electrónico, SMS o notificaciones push. Ideal para aplicaciones de seguridad, monitoreo de infraestructuras, emergencias o supervisión industrial.
+Este proyecto es un sistema de alertas diseñado para monitorear eventos críticos.
 
-## 📋 Funcionalidades
+## 👥 INTEGRANTES DE ESTE PROYECTO:
 
-- 🔔 Generación de alertas automáticas basadas en condiciones predefinidas
+-Matias Martin Baldeon Arango / U202518623
+-Diego Huaman Muñoz / U20251E686
+-William Vega Cacha / U202513944
 
-## 🛠 Tecnologías utilizadas
+### 📋 Funcionalidades:
+
+- 🔔 Generación de alertas automáticas con iteraciones.
+
+#### 🛠 Tecnologías utilizadas:
 
 - **Python** 
