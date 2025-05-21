@@ -6,11 +6,11 @@ Este proyecto es un sistema de alertas diseñado para monitorear eventos crític
 
 - **Matias Martin Baldeon Arango / U202518623**
 
-- **-Diego Huaman Muñoz / U20251E686**
+- **Diego Huaman Muñoz / U20251E686**
 
-- **-Diego Huaman Muñoz / U20251E686**
+- **Diego Huaman Muñoz / U20251E686**
   
-- **-William Vega Cacha / U202513944**
+- **William Vega Cacha / U202513944**
 
 ### 📋 Funcionalidades:
 
