@@ -10,6 +10,9 @@ Este proyecto es un sistema de alertas diseñado para monitorear eventos crític
   
 - **William Vega Cacha / U202513944**
 
+- **Arles Joshua Novoa Rojas**
+
+
 ### 📋 Funcionalidades:
 
 - 🔔 Generación de alertas automáticas con iteraciones.
